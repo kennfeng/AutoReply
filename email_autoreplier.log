@@ -107,3 +107,6 @@
 2025-04-26 20:43:45,941 - INFO - Sleeping for 5 seconds.
 2025-04-26 20:43:51,483 - INFO - No new emails to process
 2025-04-26 20:43:51,546 - INFO - Sleeping for 5 seconds.
+2025-04-26 21:05:08,447 - INFO - Starting Auto-Reply
+2025-04-26 21:05:09,587 - ERROR - Error checking emails: LOGIN command error: BAD [b'Not enough arguments provided h5mb77769859qvo']
+2025-04-26 21:05:09,588 - INFO - Sleeping for 5 seconds.
