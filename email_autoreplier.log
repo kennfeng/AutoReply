@@ -1,0 +1,109 @@
+2025-04-26 20:30:01,914 - INFO - Starting Gmail Auto-Reply Service
+2025-04-26 20:30:02,698 - ERROR - Error checking emails: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-04-26 20:30:02,699 - INFO - Sleeping for 5 seconds
+2025-04-26 20:30:43,966 - INFO - Starting Gmail Auto-Reply Service
+2025-04-26 20:30:44,983 - INFO - Found 5 unread emails.
+2025-04-26 20:30:45,173 - INFO - Processing email from: no-reply@accounts.google.com, Subject: Security alert for kenn.feng2@gmail.com
+2025-04-26 20:30:45,174 - INFO - Skipping no-reply address: no-reply@accounts.google.com
+2025-04-26 20:30:45,332 - INFO - Processing email from: no-reply@accounts.google.com, Subject: Security alert for kenn.feng2@gmail.com
+2025-04-26 20:30:45,333 - INFO - Skipping no-reply address: no-reply@accounts.google.com
+2025-04-26 20:30:45,501 - INFO - Processing email from: no-reply@accounts.google.com, Subject: Security alert for kenn.feng2@gmail.com
+2025-04-26 20:30:45,502 - INFO - Skipping no-reply address: no-reply@accounts.google.com
+2025-04-26 20:30:45,676 - INFO - Processing email from: no-reply@accounts.google.com, Subject: Security alert
+2025-04-26 20:30:45,677 - INFO - Skipping no-reply address: no-reply@accounts.google.com
+2025-04-26 20:30:45,850 - INFO - Processing email from: no-reply@accounts.google.com, Subject: Security alert
+2025-04-26 20:30:45,850 - INFO - Skipping no-reply address: no-reply@accounts.google.com
+2025-04-26 20:30:45,915 - INFO - Sleeping for 5 seconds
+2025-04-26 20:30:51,645 - INFO - No new emails to process.
+2025-04-26 20:30:51,709 - INFO - Sleeping for 5 seconds
+2025-04-26 20:30:57,388 - INFO - No new emails to process.
+2025-04-26 20:30:57,447 - INFO - Sleeping for 5 seconds
+2025-04-26 20:31:04,015 - INFO - No new emails to process.
+2025-04-26 20:31:04,298 - INFO - Sleeping for 5 seconds
+2025-04-26 20:31:06,424 - INFO - Starting Gmail Auto-Reply Service
+2025-04-26 20:31:07,710 - INFO - No new emails to process.
+2025-04-26 20:31:07,773 - INFO - Sleeping for 5 seconds
+2025-04-26 20:31:14,425 - INFO - No new emails to process.
+2025-04-26 20:31:14,564 - INFO - Sleeping for 5 seconds
+2025-04-26 20:31:20,129 - INFO - No new emails to process.
+2025-04-26 20:31:20,224 - INFO - Sleeping for 5 seconds
+2025-04-26 20:31:25,857 - INFO - No new emails to process.
+2025-04-26 20:31:25,928 - INFO - Sleeping for 5 seconds
+2025-04-26 20:31:31,412 - INFO - No new emails to process.
+2025-04-26 20:31:31,475 - INFO - Sleeping for 5 seconds
+2025-04-26 20:31:37,781 - INFO - No new emails to process.
+2025-04-26 20:31:37,999 - INFO - Sleeping for 5 seconds
+2025-04-26 20:31:43,652 - INFO - Found 1 unread emails.
+2025-04-26 20:31:43,947 - INFO - Processing email from: kenn.feng2@gmail.com, Subject: 
+2025-04-26 20:31:44,989 - ERROR - Failed to send auto-reply to kenn.feng2@gmail.com: (550, b'5.7.1 This message is not RFC 5322 compliant. There are multiple Subject\n5.7.1 headers. To reduce the amount of spam sent to Gmail, this message has\n5.7.1 been blocked. For more information, go to\n5.7.1  https://support.google.com/mail/?p=RfcMessageNonCompliant and review\n5.7.1 RFC 5322 specifications. d75a77b69052e-47ea1ba34f8sm44141631cf.77 - gsmtp')
+2025-04-26 20:31:45,237 - INFO - Sleeping for 5 seconds
+2025-04-26 20:31:51,712 - INFO - No new emails to process.
+2025-04-26 20:31:52,040 - INFO - Sleeping for 5 seconds
+2025-04-26 20:31:58,563 - INFO - No new emails to process.
+2025-04-26 20:31:58,627 - INFO - Sleeping for 5 seconds
+2025-04-26 20:32:04,697 - INFO - No new emails to process.
+2025-04-26 20:32:05,139 - INFO - Sleeping for 5 seconds
+2025-04-26 20:32:11,600 - INFO - No new emails to process.
+2025-04-26 20:32:11,968 - INFO - Sleeping for 5 seconds
+2025-04-26 20:32:18,575 - INFO - No new emails to process.
+2025-04-26 20:32:18,736 - INFO - Sleeping for 5 seconds
+2025-04-26 20:32:24,814 - INFO - No new emails to process.
+2025-04-26 20:32:24,888 - INFO - Sleeping for 5 seconds
+2025-04-26 20:32:31,159 - INFO - No new emails to process.
+2025-04-26 20:32:31,241 - INFO - Sleeping for 5 seconds
+2025-04-26 20:33:14,544 - INFO - Starting Gmail Auto-Reply Service
+2025-04-26 20:33:16,781 - INFO - No new emails to process.
+2025-04-26 20:33:17,341 - INFO - Sleeping for 5 seconds
+2025-04-26 20:33:23,114 - INFO - No new emails to process.
+2025-04-26 20:33:23,381 - INFO - Sleeping for 5 seconds
+2025-04-26 20:33:29,429 - INFO - No new emails to process.
+2025-04-26 20:33:29,526 - INFO - Sleeping for 5 seconds
+2025-04-26 20:33:36,081 - INFO - No new emails to process.
+2025-04-26 20:33:36,403 - INFO - Sleeping for 5 seconds
+2025-04-26 20:33:43,419 - INFO - No new emails to process.
+2025-04-26 20:33:43,828 - INFO - Sleeping for 5 seconds
+2025-04-26 20:33:50,342 - INFO - No new emails to process.
+2025-04-26 20:33:50,725 - INFO - Sleeping for 5 seconds
+2025-04-26 20:33:57,400 - INFO - No new emails to process.
+2025-04-26 20:33:57,755 - INFO - Sleeping for 5 seconds
+2025-04-26 20:34:04,262 - INFO - No new emails to process.
+2025-04-26 20:34:04,349 - INFO - Sleeping for 5 seconds
+2025-04-26 20:34:10,138 - INFO - No new emails to process.
+2025-04-26 20:34:10,390 - INFO - Sleeping for 5 seconds
+2025-04-26 20:34:15,885 - INFO - No new emails to process.
+2025-04-26 20:34:15,961 - INFO - Sleeping for 5 seconds
+2025-04-26 20:34:21,738 - INFO - No new emails to process.
+2025-04-26 20:34:21,798 - INFO - Sleeping for 5 seconds
+2025-04-26 20:34:27,484 - INFO - No new emails to process.
+2025-04-26 20:34:27,551 - INFO - Sleeping for 5 seconds
+2025-04-26 20:34:33,529 - INFO - No new emails to process.
+2025-04-26 20:34:33,836 - INFO - Sleeping for 5 seconds
+2025-04-26 20:34:40,287 - INFO - Found 1 unread emails.
+2025-04-26 20:34:40,501 - INFO - Processing email from: kenn.feng2@gmail.com, Subject: 
+2025-04-26 20:34:41,270 - INFO - Auto-reply sent to: kenn.feng2@gmail.com
+2025-04-26 20:34:41,329 - INFO - Sleeping for 5 seconds
+2025-04-26 20:34:48,479 - INFO - No new emails to process.
+2025-04-26 20:34:48,761 - INFO - Sleeping for 5 seconds
+2025-04-26 20:34:55,213 - INFO - No new emails to process.
+2025-04-26 20:34:55,548 - INFO - Sleeping for 5 seconds
+2025-04-26 20:35:03,032 - INFO - No new emails to process.
+2025-04-26 20:35:03,103 - INFO - Sleeping for 5 seconds
+2025-04-26 20:43:08,150 - INFO - Starting Auto-Reply
+2025-04-26 20:43:09,344 - INFO - No new emails to process
+2025-04-26 20:43:09,721 - INFO - Sleeping for 5 seconds.
+2025-04-26 20:43:15,286 - INFO - No new emails to process
+2025-04-26 20:43:15,351 - INFO - Sleeping for 5 seconds.
+2025-04-26 20:43:21,820 - INFO - No new emails to process
+2025-04-26 20:43:21,921 - INFO - Sleeping for 5 seconds.
+2025-04-26 20:43:27,564 - INFO - No new emails to process
+2025-04-26 20:43:27,629 - INFO - Sleeping for 5 seconds.
+2025-04-26 20:43:33,553 - INFO - Found 1 unread emails
+2025-04-26 20:43:33,712 - INFO - Processing email from: kenn.feng2@gmail.com, Subject: 
+2025-04-26 20:43:34,592 - INFO - Auto-reply sent to: kenn.feng2@gmail.com
+2025-04-26 20:43:34,656 - INFO - Sleeping for 5 seconds.
+2025-04-26 20:43:40,207 - INFO - No new emails to process
+2025-04-26 20:43:40,267 - INFO - Sleeping for 5 seconds.
+2025-04-26 20:43:45,866 - INFO - No new emails to process
+2025-04-26 20:43:45,941 - INFO - Sleeping for 5 seconds.
+2025-04-26 20:43:51,483 - INFO - No new emails to process
+2025-04-26 20:43:51,546 - INFO - Sleeping for 5 seconds.
