@@ -99,7 +99,6 @@ def check_email():
                 
                 # extract sender and message ID
                 sender_name, sender_email = email.utils.parseaddr(message['From'])
-                message_id = message.get('Message-ID', '')
                 subject = message.get('Subject', '(No Subject)')
                 
                 logging.info(f'Processing email from: {sender_email}, Subject: {subject}')
